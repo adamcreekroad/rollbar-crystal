@@ -8,7 +8,7 @@ targets:
   rollbar-crystal:
     main: src/rollbar-crystal.cr
 
-dependencies:
+development_dependencies:
   dotenv:
     github: gdotdesign/cr-dotenv
 
